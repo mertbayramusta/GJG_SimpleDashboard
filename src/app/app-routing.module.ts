@@ -11,6 +11,10 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full'
   },
+  {
+    path: 'charts',
+    loadChildren: () => import('./charts/charts.module').then( m => m.ChartsPageModule)
+  },
 ];
 
 @NgModule({
