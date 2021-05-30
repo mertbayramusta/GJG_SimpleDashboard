@@ -1,0 +1,5402 @@
+  [
+    {
+      "date": "2020-05-02",
+      "impressions": 508344,
+      "clicks": 55432,
+      "installs": 2254,
+      "dau": 12781,
+      "revenue": 9812.400000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-02",
+      "impressions": 521064,
+      "clicks": 52611,
+      "installs": 1136,
+      "dau": 8957,
+      "revenue": 8282.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-02",
+      "impressions": 535972,
+      "clicks": 52516,
+      "installs": 1463,
+      "dau": 10968,
+      "revenue": 9087.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-02",
+      "impressions": 532651,
+      "clicks": 53774,
+      "installs": 1161,
+      "dau": 3727,
+      "revenue": 6190.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-02",
+      "impressions": 524708,
+      "clicks": 52711,
+      "installs": 1507,
+      "dau": 4690,
+      "revenue": 6576,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-02",
+      "impressions": 520363,
+      "clicks": 56997,
+      "installs": 1324,
+      "dau": 4621,
+      "revenue": 6548.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-03",
+      "impressions": 529570,
+      "clicks": 55894,
+      "installs": 2282,
+      "dau": 9372,
+      "revenue": 8448.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-03",
+      "impressions": 506658,
+      "clicks": 53354,
+      "installs": 2806,
+      "dau": 3878,
+      "revenue": 6251.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-03",
+      "impressions": 538988,
+      "clicks": 54308,
+      "installs": 2210,
+      "dau": 11202,
+      "revenue": 9180.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-03",
+      "impressions": 521894,
+      "clicks": 51541,
+      "installs": 1532,
+      "dau": 3017,
+      "revenue": 5906.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-03",
+      "impressions": 523439,
+      "clicks": 50872,
+      "installs": 1351,
+      "dau": 4648,
+      "revenue": 6559.2,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-03",
+      "impressions": 530550,
+      "clicks": 50913,
+      "installs": 2634,
+      "dau": 10504,
+      "revenue": 8901.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-04",
+      "impressions": 523529,
+      "clicks": 55606,
+      "installs": 1672,
+      "dau": 9662,
+      "revenue": 8564.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-04",
+      "impressions": 519246,
+      "clicks": 55988,
+      "installs": 2356,
+      "dau": 10016,
+      "revenue": 8706.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-04",
+      "impressions": 511730,
+      "clicks": 50382,
+      "installs": 2675,
+      "dau": 7985,
+      "revenue": 7894,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-04",
+      "impressions": 503695,
+      "clicks": 54967,
+      "installs": 1653,
+      "dau": 5315,
+      "revenue": 6826,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-04",
+      "impressions": 538693,
+      "clicks": 54419,
+      "installs": 2618,
+      "dau": 12654,
+      "revenue": 9761.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-04",
+      "impressions": 529457,
+      "clicks": 54091,
+      "installs": 2673,
+      "dau": 11182,
+      "revenue": 9172.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-05",
+      "impressions": 539782,
+      "clicks": 54894,
+      "installs": 2388,
+      "dau": 2528,
+      "revenue": 5711.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-05",
+      "impressions": 502733,
+      "clicks": 55756,
+      "installs": 1691,
+      "dau": 7356,
+      "revenue": 7642.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-05",
+      "impressions": 516675,
+      "clicks": 50217,
+      "installs": 1678,
+      "dau": 9913,
+      "revenue": 8665.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-05",
+      "impressions": 536045,
+      "clicks": 51453,
+      "installs": 2635,
+      "dau": 7886,
+      "revenue": 7854.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-05",
+      "impressions": 518147,
+      "clicks": 50513,
+      "installs": 2470,
+      "dau": 12625,
+      "revenue": 9750,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-05",
+      "impressions": 528352,
+      "clicks": 52970,
+      "installs": 2523,
+      "dau": 11076,
+      "revenue": 9130.400000000001,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-06",
+      "impressions": 502566,
+      "clicks": 53844,
+      "installs": 1856,
+      "dau": 3669,
+      "revenue": 6167.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-06",
+      "impressions": 539632,
+      "clicks": 53655,
+      "installs": 2776,
+      "dau": 10734,
+      "revenue": 8993.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-06",
+      "impressions": 532398,
+      "clicks": 56560,
+      "installs": 2518,
+      "dau": 3416,
+      "revenue": 6066.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-06",
+      "impressions": 538319,
+      "clicks": 55219,
+      "installs": 1923,
+      "dau": 9733,
+      "revenue": 8593.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-06",
+      "impressions": 524598,
+      "clicks": 53343,
+      "installs": 2877,
+      "dau": 10131,
+      "revenue": 8752.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-06",
+      "impressions": 516488,
+      "clicks": 54684,
+      "installs": 2252,
+      "dau": 4306,
+      "revenue": 6422.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-07",
+      "impressions": 535460,
+      "clicks": 56656,
+      "installs": 2635,
+      "dau": 11371,
+      "revenue": 9248.400000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-07",
+      "impressions": 512154,
+      "clicks": 55664,
+      "installs": 2007,
+      "dau": 11137,
+      "revenue": 9154.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-07",
+      "impressions": 510452,
+      "clicks": 53544,
+      "installs": 1636,
+      "dau": 7525,
+      "revenue": 7710,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-07",
+      "impressions": 522769,
+      "clicks": 52656,
+      "installs": 2879,
+      "dau": 3720,
+      "revenue": 6188,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-07",
+      "impressions": 521800,
+      "clicks": 51579,
+      "installs": 1750,
+      "dau": 7416,
+      "revenue": 7666.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-07",
+      "impressions": 536722,
+      "clicks": 53287,
+      "installs": 2176,
+      "dau": 11118,
+      "revenue": 9147.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-08",
+      "impressions": 519882,
+      "clicks": 52163,
+      "installs": 1879,
+      "dau": 4115,
+      "revenue": 6346,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-08",
+      "impressions": 532631,
+      "clicks": 53149,
+      "installs": 2037,
+      "dau": 7405,
+      "revenue": 7662,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-08",
+      "impressions": 500005,
+      "clicks": 53901,
+      "installs": 2092,
+      "dau": 11484,
+      "revenue": 9293.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-08",
+      "impressions": 538258,
+      "clicks": 56872,
+      "installs": 2136,
+      "dau": 8488,
+      "revenue": 8095.200000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-08",
+      "impressions": 533028,
+      "clicks": 50879,
+      "installs": 1712,
+      "dau": 8152,
+      "revenue": 7960.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-08",
+      "impressions": 519229,
+      "clicks": 50022,
+      "installs": 2797,
+      "dau": 7420,
+      "revenue": 7668,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-09",
+      "impressions": 518720,
+      "clicks": 50070,
+      "installs": 1837,
+      "dau": 8949,
+      "revenue": 8279.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-09",
+      "impressions": 519242,
+      "clicks": 56610,
+      "installs": 2377,
+      "dau": 4913,
+      "revenue": 6665.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-09",
+      "impressions": 503194,
+      "clicks": 52613,
+      "installs": 2160,
+      "dau": 8774,
+      "revenue": 8209.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-09",
+      "impressions": 513548,
+      "clicks": 51957,
+      "installs": 2527,
+      "dau": 4220,
+      "revenue": 6388,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-09",
+      "impressions": 536475,
+      "clicks": 56512,
+      "installs": 2341,
+      "dau": 6345,
+      "revenue": 7238,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-09",
+      "impressions": 522763,
+      "clicks": 55603,
+      "installs": 1780,
+      "dau": 4067,
+      "revenue": 6326.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-10",
+      "impressions": 509176,
+      "clicks": 53747,
+      "installs": 1368,
+      "dau": 6714,
+      "revenue": 7385.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-10",
+      "impressions": 515501,
+      "clicks": 51772,
+      "installs": 1931,
+      "dau": 11283,
+      "revenue": 9213.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-10",
+      "impressions": 536553,
+      "clicks": 51608,
+      "installs": 1389,
+      "dau": 2285,
+      "revenue": 5614,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-10",
+      "impressions": 501650,
+      "clicks": 56243,
+      "installs": 1699,
+      "dau": 11613,
+      "revenue": 9345.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-10",
+      "impressions": 522272,
+      "clicks": 50256,
+      "installs": 1083,
+      "dau": 5551,
+      "revenue": 6920.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-10",
+      "impressions": 526173,
+      "clicks": 56696,
+      "installs": 2780,
+      "dau": 10130,
+      "revenue": 8752,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-11",
+      "impressions": 521930,
+      "clicks": 50624,
+      "installs": 1343,
+      "dau": 1754,
+      "revenue": 5401.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-11",
+      "impressions": 523830,
+      "clicks": 53397,
+      "installs": 1091,
+      "dau": 11610,
+      "revenue": 9344,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-11",
+      "impressions": 524460,
+      "clicks": 53656,
+      "installs": 2130,
+      "dau": 4032,
+      "revenue": 6312.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-11",
+      "impressions": 522995,
+      "clicks": 55700,
+      "installs": 2124,
+      "dau": 5228,
+      "revenue": 6791.200000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-11",
+      "impressions": 503246,
+      "clicks": 54942,
+      "installs": 1015,
+      "dau": 8236,
+      "revenue": 7994.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-11",
+      "impressions": 503158,
+      "clicks": 56659,
+      "installs": 1129,
+      "dau": 6740,
+      "revenue": 7396,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-12",
+      "impressions": 512858,
+      "clicks": 54847,
+      "installs": 2153,
+      "dau": 12840,
+      "revenue": 9836,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-12",
+      "impressions": 515693,
+      "clicks": 51271,
+      "installs": 2223,
+      "dau": 6005,
+      "revenue": 7102,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-12",
+      "impressions": 518239,
+      "clicks": 53075,
+      "installs": 1049,
+      "dau": 1476,
+      "revenue": 5290.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-12",
+      "impressions": 510233,
+      "clicks": 51078,
+      "installs": 2670,
+      "dau": 8337,
+      "revenue": 8034.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-12",
+      "impressions": 534339,
+      "clicks": 52369,
+      "installs": 1929,
+      "dau": 7740,
+      "revenue": 7796,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-12",
+      "impressions": 515388,
+      "clicks": 52454,
+      "installs": 2153,
+      "dau": 10823,
+      "revenue": 9029.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-13",
+      "impressions": 532959,
+      "clicks": 56630,
+      "installs": 1418,
+      "dau": 8006,
+      "revenue": 7902.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-13",
+      "impressions": 531056,
+      "clicks": 54139,
+      "installs": 2029,
+      "dau": 6206,
+      "revenue": 7182.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-13",
+      "impressions": 533356,
+      "clicks": 55603,
+      "installs": 1228,
+      "dau": 4250,
+      "revenue": 6400,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-13",
+      "impressions": 518649,
+      "clicks": 51062,
+      "installs": 2411,
+      "dau": 7170,
+      "revenue": 7568,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-13",
+      "impressions": 514666,
+      "clicks": 51682,
+      "installs": 1262,
+      "dau": 10358,
+      "revenue": 8843.2,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-13",
+      "impressions": 514590,
+      "clicks": 50616,
+      "installs": 2341,
+      "dau": 2452,
+      "revenue": 5680.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-14",
+      "impressions": 530767,
+      "clicks": 54755,
+      "installs": 1566,
+      "dau": 11307,
+      "revenue": 9222.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-14",
+      "impressions": 509700,
+      "clicks": 54363,
+      "installs": 2550,
+      "dau": 5978,
+      "revenue": 7091.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-14",
+      "impressions": 525293,
+      "clicks": 50657,
+      "installs": 2138,
+      "dau": 12192,
+      "revenue": 9576.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-14",
+      "impressions": 520773,
+      "clicks": 50495,
+      "installs": 2007,
+      "dau": 8399,
+      "revenue": 8059.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-14",
+      "impressions": 512334,
+      "clicks": 51810,
+      "installs": 2822,
+      "dau": 4473,
+      "revenue": 6489.2,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-14",
+      "impressions": 507561,
+      "clicks": 52778,
+      "installs": 2071,
+      "dau": 4559,
+      "revenue": 6523.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-15",
+      "impressions": 535166,
+      "clicks": 54082,
+      "installs": 1843,
+      "dau": 3521,
+      "revenue": 6108.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-15",
+      "impressions": 504036,
+      "clicks": 56434,
+      "installs": 2320,
+      "dau": 2554,
+      "revenue": 5721.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-15",
+      "impressions": 506247,
+      "clicks": 54450,
+      "installs": 1368,
+      "dau": 4231,
+      "revenue": 6392.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-15",
+      "impressions": 518764,
+      "clicks": 54946,
+      "installs": 1649,
+      "dau": 8730,
+      "revenue": 8192,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-15",
+      "impressions": 524683,
+      "clicks": 53262,
+      "installs": 2375,
+      "dau": 8029,
+      "revenue": 7911.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-15",
+      "impressions": 516278,
+      "clicks": 52921,
+      "installs": 1834,
+      "dau": 5706,
+      "revenue": 6982.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-16",
+      "impressions": 527162,
+      "clicks": 50586,
+      "installs": 2174,
+      "dau": 5069,
+      "revenue": 6727.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-16",
+      "impressions": 520679,
+      "clicks": 53936,
+      "installs": 2757,
+      "dau": 9059,
+      "revenue": 8323.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-16",
+      "impressions": 509417,
+      "clicks": 50977,
+      "installs": 1818,
+      "dau": 6669,
+      "revenue": 7367.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-16",
+      "impressions": 507889,
+      "clicks": 55982,
+      "installs": 2045,
+      "dau": 12337,
+      "revenue": 9634.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-16",
+      "impressions": 515630,
+      "clicks": 50694,
+      "installs": 1077,
+      "dau": 10811,
+      "revenue": 9024.400000000001,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-16",
+      "impressions": 509342,
+      "clicks": 56255,
+      "installs": 1353,
+      "dau": 9825,
+      "revenue": 8630,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-17",
+      "impressions": 533784,
+      "clicks": 51262,
+      "installs": 2615,
+      "dau": 10331,
+      "revenue": 8832.400000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-17",
+      "impressions": 522635,
+      "clicks": 51459,
+      "installs": 1535,
+      "dau": 5015,
+      "revenue": 6706,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-17",
+      "impressions": 513484,
+      "clicks": 53042,
+      "installs": 1739,
+      "dau": 3925,
+      "revenue": 6270,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-17",
+      "impressions": 509319,
+      "clicks": 56304,
+      "installs": 1326,
+      "dau": 4990,
+      "revenue": 6696,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-17",
+      "impressions": 514381,
+      "clicks": 55933,
+      "installs": 1060,
+      "dau": 3204,
+      "revenue": 5981.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-17",
+      "impressions": 514309,
+      "clicks": 51097,
+      "installs": 1630,
+      "dau": 6967,
+      "revenue": 7486.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-18",
+      "impressions": 535057,
+      "clicks": 50026,
+      "installs": 2005,
+      "dau": 10353,
+      "revenue": 8841.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-18",
+      "impressions": 505272,
+      "clicks": 51540,
+      "installs": 1602,
+      "dau": 4222,
+      "revenue": 6388.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-18",
+      "impressions": 526631,
+      "clicks": 50364,
+      "installs": 1195,
+      "dau": 3157,
+      "revenue": 5962.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-18",
+      "impressions": 525665,
+      "clicks": 54711,
+      "installs": 1467,
+      "dau": 7323,
+      "revenue": 7629.200000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-18",
+      "impressions": 520840,
+      "clicks": 55313,
+      "installs": 2236,
+      "dau": 2459,
+      "revenue": 5683.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-18",
+      "impressions": 502196,
+      "clicks": 53283,
+      "installs": 1558,
+      "dau": 3132,
+      "revenue": 5952.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-19",
+      "impressions": 504151,
+      "clicks": 53946,
+      "installs": 1231,
+      "dau": 9949,
+      "revenue": 8679.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-19",
+      "impressions": 514980,
+      "clicks": 56712,
+      "installs": 1950,
+      "dau": 9403,
+      "revenue": 8461.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-19",
+      "impressions": 515480,
+      "clicks": 56017,
+      "installs": 2223,
+      "dau": 3707,
+      "revenue": 6182.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-19",
+      "impressions": 500624,
+      "clicks": 50037,
+      "installs": 2734,
+      "dau": 5428,
+      "revenue": 6871.200000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-19",
+      "impressions": 502478,
+      "clicks": 54925,
+      "installs": 1782,
+      "dau": 3540,
+      "revenue": 6116,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-19",
+      "impressions": 518296,
+      "clicks": 52715,
+      "installs": 2495,
+      "dau": 5196,
+      "revenue": 6778.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-20",
+      "impressions": 537804,
+      "clicks": 50623,
+      "installs": 2312,
+      "dau": 4938,
+      "revenue": 6675.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-20",
+      "impressions": 508610,
+      "clicks": 53086,
+      "installs": 1292,
+      "dau": 7774,
+      "revenue": 7809.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-20",
+      "impressions": 527207,
+      "clicks": 55171,
+      "installs": 1646,
+      "dau": 9585,
+      "revenue": 8534,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-20",
+      "impressions": 528325,
+      "clicks": 52643,
+      "installs": 2702,
+      "dau": 12538,
+      "revenue": 9715.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-20",
+      "impressions": 518663,
+      "clicks": 54496,
+      "installs": 2421,
+      "dau": 4206,
+      "revenue": 6382.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-20",
+      "impressions": 524865,
+      "clicks": 55992,
+      "installs": 2010,
+      "dau": 5167,
+      "revenue": 6766.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-21",
+      "impressions": 532931,
+      "clicks": 52680,
+      "installs": 1929,
+      "dau": 4819,
+      "revenue": 6627.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-21",
+      "impressions": 526694,
+      "clicks": 52898,
+      "installs": 2839,
+      "dau": 4954,
+      "revenue": 6681.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-21",
+      "impressions": 526320,
+      "clicks": 50004,
+      "installs": 1803,
+      "dau": 3971,
+      "revenue": 6288.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-21",
+      "impressions": 536708,
+      "clicks": 50766,
+      "installs": 1404,
+      "dau": 4783,
+      "revenue": 6613.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-21",
+      "impressions": 535306,
+      "clicks": 51969,
+      "installs": 2090,
+      "dau": 5186,
+      "revenue": 6774.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-21",
+      "impressions": 536649,
+      "clicks": 50515,
+      "installs": 1805,
+      "dau": 10849,
+      "revenue": 9039.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-22",
+      "impressions": 530321,
+      "clicks": 50119,
+      "installs": 1868,
+      "dau": 10034,
+      "revenue": 8713.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-22",
+      "impressions": 520024,
+      "clicks": 52449,
+      "installs": 2204,
+      "dau": 2416,
+      "revenue": 5666.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-22",
+      "impressions": 507275,
+      "clicks": 56694,
+      "installs": 2774,
+      "dau": 12574,
+      "revenue": 9729.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-22",
+      "impressions": 513954,
+      "clicks": 52608,
+      "installs": 2653,
+      "dau": 9831,
+      "revenue": 8632.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-22",
+      "impressions": 517172,
+      "clicks": 55377,
+      "installs": 1547,
+      "dau": 7004,
+      "revenue": 7501.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-22",
+      "impressions": 520548,
+      "clicks": 56307,
+      "installs": 1862,
+      "dau": 4868,
+      "revenue": 6647.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-23",
+      "impressions": 537110,
+      "clicks": 50641,
+      "installs": 1737,
+      "dau": 6010,
+      "revenue": 7104,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-23",
+      "impressions": 509636,
+      "clicks": 51816,
+      "installs": 1948,
+      "dau": 10018,
+      "revenue": 8707.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-23",
+      "impressions": 529995,
+      "clicks": 52183,
+      "installs": 2561,
+      "dau": 9155,
+      "revenue": 8362,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-23",
+      "impressions": 509398,
+      "clicks": 50380,
+      "installs": 2588,
+      "dau": 10642,
+      "revenue": 8956.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-23",
+      "impressions": 511409,
+      "clicks": 52055,
+      "installs": 2554,
+      "dau": 6056,
+      "revenue": 7122.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-23",
+      "impressions": 536962,
+      "clicks": 52419,
+      "installs": 2341,
+      "dau": 12506,
+      "revenue": 9702.400000000001,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-24",
+      "impressions": 525752,
+      "clicks": 53440,
+      "installs": 1915,
+      "dau": 9188,
+      "revenue": 8375.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-24",
+      "impressions": 512546,
+      "clicks": 53514,
+      "installs": 1009,
+      "dau": 7333,
+      "revenue": 7633.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-24",
+      "impressions": 531161,
+      "clicks": 55531,
+      "installs": 2284,
+      "dau": 9508,
+      "revenue": 8503.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-24",
+      "impressions": 507849,
+      "clicks": 51771,
+      "installs": 2881,
+      "dau": 10271,
+      "revenue": 8808.400000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-24",
+      "impressions": 511789,
+      "clicks": 51318,
+      "installs": 2586,
+      "dau": 11089,
+      "revenue": 9135.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-24",
+      "impressions": 535508,
+      "clicks": 52797,
+      "installs": 2216,
+      "dau": 11648,
+      "revenue": 9359.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-25",
+      "impressions": 521348,
+      "clicks": 51153,
+      "installs": 1761,
+      "dau": 3550,
+      "revenue": 6120,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-25",
+      "impressions": 504599,
+      "clicks": 53145,
+      "installs": 2774,
+      "dau": 7226,
+      "revenue": 7590.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-25",
+      "impressions": 501824,
+      "clicks": 53220,
+      "installs": 1617,
+      "dau": 6253,
+      "revenue": 7201.200000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-25",
+      "impressions": 537851,
+      "clicks": 50236,
+      "installs": 2210,
+      "dau": 3242,
+      "revenue": 5996.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-25",
+      "impressions": 517937,
+      "clicks": 55033,
+      "installs": 1083,
+      "dau": 2815,
+      "revenue": 5826,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-25",
+      "impressions": 520410,
+      "clicks": 56550,
+      "installs": 2559,
+      "dau": 2941,
+      "revenue": 5876.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-26",
+      "impressions": 524756,
+      "clicks": 53290,
+      "installs": 2172,
+      "dau": 8731,
+      "revenue": 8192.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-26",
+      "impressions": 506107,
+      "clicks": 54277,
+      "installs": 1919,
+      "dau": 4743,
+      "revenue": 6597.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-26",
+      "impressions": 512197,
+      "clicks": 53133,
+      "installs": 1304,
+      "dau": 9120,
+      "revenue": 8348,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-26",
+      "impressions": 531514,
+      "clicks": 55506,
+      "installs": 1558,
+      "dau": 11328,
+      "revenue": 9231.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-26",
+      "impressions": 515693,
+      "clicks": 53416,
+      "installs": 2862,
+      "dau": 3415,
+      "revenue": 6066,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-26",
+      "impressions": 512704,
+      "clicks": 53582,
+      "installs": 2683,
+      "dau": 9040,
+      "revenue": 8316,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-27",
+      "impressions": 514624,
+      "clicks": 55299,
+      "installs": 1309,
+      "dau": 5476,
+      "revenue": 6890.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-27",
+      "impressions": 530987,
+      "clicks": 50319,
+      "installs": 2229,
+      "dau": 8453,
+      "revenue": 8081.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-27",
+      "impressions": 537751,
+      "clicks": 55621,
+      "installs": 1836,
+      "dau": 4550,
+      "revenue": 6520,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-27",
+      "impressions": 535203,
+      "clicks": 53898,
+      "installs": 1811,
+      "dau": 4053,
+      "revenue": 6321.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-27",
+      "impressions": 510810,
+      "clicks": 56626,
+      "installs": 2016,
+      "dau": 2595,
+      "revenue": 5738,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-27",
+      "impressions": 537318,
+      "clicks": 51549,
+      "installs": 1043,
+      "dau": 7242,
+      "revenue": 7596.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-28",
+      "impressions": 512106,
+      "clicks": 51910,
+      "installs": 1663,
+      "dau": 2281,
+      "revenue": 5612.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-28",
+      "impressions": 527813,
+      "clicks": 50318,
+      "installs": 1710,
+      "dau": 10065,
+      "revenue": 8726,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-28",
+      "impressions": 517049,
+      "clicks": 53760,
+      "installs": 1642,
+      "dau": 6570,
+      "revenue": 7328,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-28",
+      "impressions": 533230,
+      "clicks": 56884,
+      "installs": 1813,
+      "dau": 5079,
+      "revenue": 6731.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-28",
+      "impressions": 535958,
+      "clicks": 56442,
+      "installs": 1706,
+      "dau": 8458,
+      "revenue": 8083.200000000001,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-28",
+      "impressions": 509490,
+      "clicks": 51775,
+      "installs": 2060,
+      "dau": 5890,
+      "revenue": 7056,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-29",
+      "impressions": 537052,
+      "clicks": 53991,
+      "installs": 1009,
+      "dau": 5012,
+      "revenue": 6704.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-29",
+      "impressions": 505596,
+      "clicks": 50233,
+      "installs": 1976,
+      "dau": 3506,
+      "revenue": 6102.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-29",
+      "impressions": 535815,
+      "clicks": 52312,
+      "installs": 1518,
+      "dau": 8842,
+      "revenue": 8236.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-29",
+      "impressions": 516489,
+      "clicks": 52495,
+      "installs": 1138,
+      "dau": 2860,
+      "revenue": 5844,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-29",
+      "impressions": 502800,
+      "clicks": 50249,
+      "installs": 1967,
+      "dau": 7805,
+      "revenue": 7822,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-29",
+      "impressions": 518678,
+      "clicks": 53898,
+      "installs": 1429,
+      "dau": 10529,
+      "revenue": 8911.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-30",
+      "impressions": 533586,
+      "clicks": 50325,
+      "installs": 2837,
+      "dau": 12224,
+      "revenue": 9589.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-30",
+      "impressions": 504996,
+      "clicks": 54608,
+      "installs": 1347,
+      "dau": 10254,
+      "revenue": 8801.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-30",
+      "impressions": 525386,
+      "clicks": 55494,
+      "installs": 1226,
+      "dau": 4829,
+      "revenue": 6631.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-30",
+      "impressions": 525630,
+      "clicks": 56419,
+      "installs": 1188,
+      "dau": 3523,
+      "revenue": 6109.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-30",
+      "impressions": 538922,
+      "clicks": 51342,
+      "installs": 2711,
+      "dau": 10459,
+      "revenue": 8883.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-30",
+      "impressions": 512536,
+      "clicks": 54156,
+      "installs": 1666,
+      "dau": 5060,
+      "revenue": 6724,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-31",
+      "impressions": 503399,
+      "clicks": 50007,
+      "installs": 2166,
+      "dau": 4374,
+      "revenue": 6449.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-31",
+      "impressions": 517612,
+      "clicks": 50608,
+      "installs": 1657,
+      "dau": 9676,
+      "revenue": 8570.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-05-31",
+      "impressions": 504473,
+      "clicks": 55162,
+      "installs": 1039,
+      "dau": 9652,
+      "revenue": 8560.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-31",
+      "impressions": 519350,
+      "clicks": 50112,
+      "installs": 2181,
+      "dau": 6453,
+      "revenue": 7281.200000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-05-31",
+      "impressions": 525085,
+      "clicks": 56136,
+      "installs": 1758,
+      "dau": 2806,
+      "revenue": 5822.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-05-31",
+      "impressions": 537881,
+      "clicks": 55373,
+      "installs": 1790,
+      "dau": 11108,
+      "revenue": 9143.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-01",
+      "impressions": 534209,
+      "clicks": 53292,
+      "installs": 1087,
+      "dau": 8810,
+      "revenue": 8224,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-01",
+      "impressions": 500490,
+      "clicks": 50860,
+      "installs": 1117,
+      "dau": 2044,
+      "revenue": 5517.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-01",
+      "impressions": 530399,
+      "clicks": 53926,
+      "installs": 2208,
+      "dau": 5461,
+      "revenue": 6884.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-01",
+      "impressions": 521224,
+      "clicks": 53987,
+      "installs": 2510,
+      "dau": 10282,
+      "revenue": 8812.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-01",
+      "impressions": 533135,
+      "clicks": 52842,
+      "installs": 1469,
+      "dau": 5485,
+      "revenue": 6894,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-01",
+      "impressions": 520003,
+      "clicks": 52431,
+      "installs": 1157,
+      "dau": 11767,
+      "revenue": 9406.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-02",
+      "impressions": 538732,
+      "clicks": 50691,
+      "installs": 2273,
+      "dau": 5193,
+      "revenue": 6777.200000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-02",
+      "impressions": 507388,
+      "clicks": 50052,
+      "installs": 1735,
+      "dau": 7198,
+      "revenue": 7579.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-02",
+      "impressions": 531160,
+      "clicks": 50713,
+      "installs": 1463,
+      "dau": 8323,
+      "revenue": 8029.200000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-02",
+      "impressions": 528994,
+      "clicks": 53421,
+      "installs": 1727,
+      "dau": 10215,
+      "revenue": 8786,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-02",
+      "impressions": 517803,
+      "clicks": 50256,
+      "installs": 2029,
+      "dau": 9847,
+      "revenue": 8638.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-02",
+      "impressions": 521475,
+      "clicks": 55026,
+      "installs": 1313,
+      "dau": 3057,
+      "revenue": 5922.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-03",
+      "impressions": 518218,
+      "clicks": 53256,
+      "installs": 2052,
+      "dau": 12828,
+      "revenue": 9831.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-03",
+      "impressions": 532994,
+      "clicks": 53656,
+      "installs": 2181,
+      "dau": 6322,
+      "revenue": 7228.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-03",
+      "impressions": 530336,
+      "clicks": 50739,
+      "installs": 2254,
+      "dau": 5423,
+      "revenue": 6869.200000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-03",
+      "impressions": 506377,
+      "clicks": 55290,
+      "installs": 1034,
+      "dau": 1704,
+      "revenue": 5381.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-03",
+      "impressions": 513562,
+      "clicks": 51297,
+      "installs": 1119,
+      "dau": 8650,
+      "revenue": 8160,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-03",
+      "impressions": 508653,
+      "clicks": 55082,
+      "installs": 1695,
+      "dau": 10396,
+      "revenue": 8858.400000000001,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-04",
+      "impressions": 522048,
+      "clicks": 50849,
+      "installs": 2711,
+      "dau": 5951,
+      "revenue": 7080.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-04",
+      "impressions": 517225,
+      "clicks": 54664,
+      "installs": 2575,
+      "dau": 12956,
+      "revenue": 9882.400000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-04",
+      "impressions": 518334,
+      "clicks": 56185,
+      "installs": 2449,
+      "dau": 8935,
+      "revenue": 8274,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-04",
+      "impressions": 531015,
+      "clicks": 55958,
+      "installs": 1317,
+      "dau": 11189,
+      "revenue": 9175.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-04",
+      "impressions": 511730,
+      "clicks": 50002,
+      "installs": 2244,
+      "dau": 4968,
+      "revenue": 6687.2,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-04",
+      "impressions": 502504,
+      "clicks": 56220,
+      "installs": 1948,
+      "dau": 11460,
+      "revenue": 9284,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-05",
+      "impressions": 514222,
+      "clicks": 55285,
+      "installs": 1364,
+      "dau": 5171,
+      "revenue": 6768.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-05",
+      "impressions": 517023,
+      "clicks": 55074,
+      "installs": 1989,
+      "dau": 8626,
+      "revenue": 8150.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-05",
+      "impressions": 529717,
+      "clicks": 52146,
+      "installs": 1072,
+      "dau": 4308,
+      "revenue": 6423.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-05",
+      "impressions": 527115,
+      "clicks": 51585,
+      "installs": 1798,
+      "dau": 4727,
+      "revenue": 6590.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-05",
+      "impressions": 513420,
+      "clicks": 52202,
+      "installs": 1406,
+      "dau": 11660,
+      "revenue": 9364,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-05",
+      "impressions": 536453,
+      "clicks": 51796,
+      "installs": 1668,
+      "dau": 11684,
+      "revenue": 9373.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-06",
+      "impressions": 531242,
+      "clicks": 56903,
+      "installs": 2858,
+      "dau": 10368,
+      "revenue": 8847.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-06",
+      "impressions": 539334,
+      "clicks": 56791,
+      "installs": 2312,
+      "dau": 12293,
+      "revenue": 9617.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-06",
+      "impressions": 515416,
+      "clicks": 53604,
+      "installs": 1881,
+      "dau": 10693,
+      "revenue": 8977.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-06",
+      "impressions": 531720,
+      "clicks": 56841,
+      "installs": 2328,
+      "dau": 4114,
+      "revenue": 6345.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-06",
+      "impressions": 516621,
+      "clicks": 53395,
+      "installs": 1579,
+      "dau": 6806,
+      "revenue": 7422.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-06",
+      "impressions": 530074,
+      "clicks": 52456,
+      "installs": 1856,
+      "dau": 12304,
+      "revenue": 9621.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-07",
+      "impressions": 501346,
+      "clicks": 53101,
+      "installs": 2884,
+      "dau": 9892,
+      "revenue": 8656.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-07",
+      "impressions": 531097,
+      "clicks": 52337,
+      "installs": 1541,
+      "dau": 6747,
+      "revenue": 7398.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-07",
+      "impressions": 530795,
+      "clicks": 53536,
+      "installs": 2324,
+      "dau": 2460,
+      "revenue": 5684,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-07",
+      "impressions": 511565,
+      "clicks": 50911,
+      "installs": 1883,
+      "dau": 10975,
+      "revenue": 9090,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-07",
+      "impressions": 532178,
+      "clicks": 56928,
+      "installs": 2098,
+      "dau": 5426,
+      "revenue": 6870.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-07",
+      "impressions": 523178,
+      "clicks": 56983,
+      "installs": 2683,
+      "dau": 3955,
+      "revenue": 6282,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-08",
+      "impressions": 539975,
+      "clicks": 56972,
+      "installs": 2014,
+      "dau": 2642,
+      "revenue": 5756.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-08",
+      "impressions": 512361,
+      "clicks": 56818,
+      "installs": 1590,
+      "dau": 3828,
+      "revenue": 6231.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-08",
+      "impressions": 525257,
+      "clicks": 51669,
+      "installs": 1161,
+      "dau": 10215,
+      "revenue": 8786,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-08",
+      "impressions": 532384,
+      "clicks": 50974,
+      "installs": 2455,
+      "dau": 9721,
+      "revenue": 8588.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-08",
+      "impressions": 520510,
+      "clicks": 56301,
+      "installs": 1374,
+      "dau": 11280,
+      "revenue": 9212,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-08",
+      "impressions": 519795,
+      "clicks": 50527,
+      "installs": 1079,
+      "dau": 2033,
+      "revenue": 5513.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-09",
+      "impressions": 517983,
+      "clicks": 55790,
+      "installs": 2732,
+      "dau": 11276,
+      "revenue": 9210.400000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-09",
+      "impressions": 521152,
+      "clicks": 56860,
+      "installs": 2677,
+      "dau": 7455,
+      "revenue": 7682,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-09",
+      "impressions": 514334,
+      "clicks": 53068,
+      "installs": 1874,
+      "dau": 9551,
+      "revenue": 8520.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-09",
+      "impressions": 538282,
+      "clicks": 55729,
+      "installs": 1811,
+      "dau": 2867,
+      "revenue": 5846.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-09",
+      "impressions": 505052,
+      "clicks": 50893,
+      "installs": 2696,
+      "dau": 11871,
+      "revenue": 9448.400000000001,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-09",
+      "impressions": 536456,
+      "clicks": 56634,
+      "installs": 1032,
+      "dau": 10980,
+      "revenue": 9092,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-10",
+      "impressions": 538468,
+      "clicks": 53300,
+      "installs": 1271,
+      "dau": 11825,
+      "revenue": 9430,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-10",
+      "impressions": 525360,
+      "clicks": 55791,
+      "installs": 2738,
+      "dau": 12562,
+      "revenue": 9724.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-10",
+      "impressions": 534462,
+      "clicks": 50965,
+      "installs": 2597,
+      "dau": 4688,
+      "revenue": 6575.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-10",
+      "impressions": 502323,
+      "clicks": 50067,
+      "installs": 2662,
+      "dau": 11502,
+      "revenue": 9300.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-10",
+      "impressions": 524206,
+      "clicks": 51304,
+      "installs": 2837,
+      "dau": 12139,
+      "revenue": 9555.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-10",
+      "impressions": 508798,
+      "clicks": 56057,
+      "installs": 1150,
+      "dau": 11428,
+      "revenue": 9271.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-11",
+      "impressions": 534898,
+      "clicks": 53340,
+      "installs": 1710,
+      "dau": 7834,
+      "revenue": 7833.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-11",
+      "impressions": 505455,
+      "clicks": 50982,
+      "installs": 1311,
+      "dau": 1480,
+      "revenue": 5292,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-11",
+      "impressions": 529908,
+      "clicks": 52996,
+      "installs": 1554,
+      "dau": 6706,
+      "revenue": 7382.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-11",
+      "impressions": 501372,
+      "clicks": 56251,
+      "installs": 1815,
+      "dau": 6148,
+      "revenue": 7159.200000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-11",
+      "impressions": 533346,
+      "clicks": 53750,
+      "installs": 1746,
+      "dau": 12424,
+      "revenue": 9669.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-11",
+      "impressions": 501051,
+      "clicks": 56848,
+      "installs": 1906,
+      "dau": 3758,
+      "revenue": 6203.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-12",
+      "impressions": 510090,
+      "clicks": 51996,
+      "installs": 1978,
+      "dau": 4920,
+      "revenue": 6668,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-12",
+      "impressions": 532934,
+      "clicks": 51507,
+      "installs": 1000,
+      "dau": 8446,
+      "revenue": 8078.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-12",
+      "impressions": 529233,
+      "clicks": 55483,
+      "installs": 1777,
+      "dau": 3425,
+      "revenue": 6070,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-12",
+      "impressions": 521046,
+      "clicks": 52386,
+      "installs": 2172,
+      "dau": 10970,
+      "revenue": 9088,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-12",
+      "impressions": 519003,
+      "clicks": 54189,
+      "installs": 1668,
+      "dau": 10317,
+      "revenue": 8826.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-12",
+      "impressions": 520610,
+      "clicks": 53705,
+      "installs": 2664,
+      "dau": 9082,
+      "revenue": 8332.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-13",
+      "impressions": 518334,
+      "clicks": 56564,
+      "installs": 2098,
+      "dau": 3725,
+      "revenue": 6190,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-13",
+      "impressions": 509910,
+      "clicks": 56770,
+      "installs": 1362,
+      "dau": 7299,
+      "revenue": 7619.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-13",
+      "impressions": 513723,
+      "clicks": 52413,
+      "installs": 2090,
+      "dau": 3098,
+      "revenue": 5939.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-13",
+      "impressions": 535731,
+      "clicks": 54678,
+      "installs": 2679,
+      "dau": 9964,
+      "revenue": 8685.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-13",
+      "impressions": 510077,
+      "clicks": 54295,
+      "installs": 1484,
+      "dau": 10226,
+      "revenue": 8790.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-13",
+      "impressions": 525116,
+      "clicks": 50058,
+      "installs": 2198,
+      "dau": 8559,
+      "revenue": 8123.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-14",
+      "impressions": 538632,
+      "clicks": 53481,
+      "installs": 1514,
+      "dau": 7700,
+      "revenue": 7780,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-14",
+      "impressions": 510958,
+      "clicks": 54404,
+      "installs": 1486,
+      "dau": 4932,
+      "revenue": 6672.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-14",
+      "impressions": 531118,
+      "clicks": 50060,
+      "installs": 1604,
+      "dau": 6171,
+      "revenue": 7168.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-14",
+      "impressions": 530553,
+      "clicks": 55768,
+      "installs": 1965,
+      "dau": 4265,
+      "revenue": 6406,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-14",
+      "impressions": 512419,
+      "clicks": 53120,
+      "installs": 1893,
+      "dau": 5435,
+      "revenue": 6874,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-14",
+      "impressions": 505118,
+      "clicks": 55244,
+      "installs": 2533,
+      "dau": 2900,
+      "revenue": 5860,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-15",
+      "impressions": 530736,
+      "clicks": 50277,
+      "installs": 1414,
+      "dau": 11477,
+      "revenue": 9290.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-15",
+      "impressions": 537311,
+      "clicks": 52531,
+      "installs": 2504,
+      "dau": 8202,
+      "revenue": 7980.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-15",
+      "impressions": 502832,
+      "clicks": 56671,
+      "installs": 2102,
+      "dau": 11141,
+      "revenue": 9156.400000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-15",
+      "impressions": 511329,
+      "clicks": 56178,
+      "installs": 1828,
+      "dau": 4333,
+      "revenue": 6433.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-15",
+      "impressions": 522307,
+      "clicks": 56295,
+      "installs": 2529,
+      "dau": 12611,
+      "revenue": 9744.400000000001,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-15",
+      "impressions": 539846,
+      "clicks": 51194,
+      "installs": 2007,
+      "dau": 3310,
+      "revenue": 6024,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-16",
+      "impressions": 525788,
+      "clicks": 50634,
+      "installs": 2605,
+      "dau": 4739,
+      "revenue": 6595.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-16",
+      "impressions": 530094,
+      "clicks": 54760,
+      "installs": 1465,
+      "dau": 3501,
+      "revenue": 6100.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-16",
+      "impressions": 506545,
+      "clicks": 54698,
+      "installs": 2387,
+      "dau": 3032,
+      "revenue": 5912.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-16",
+      "impressions": 500148,
+      "clicks": 51462,
+      "installs": 1448,
+      "dau": 2867,
+      "revenue": 5846.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-16",
+      "impressions": 502241,
+      "clicks": 54069,
+      "installs": 1136,
+      "dau": 3461,
+      "revenue": 6084.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-16",
+      "impressions": 516999,
+      "clicks": 51486,
+      "installs": 2109,
+      "dau": 5595,
+      "revenue": 6938,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-17",
+      "impressions": 517699,
+      "clicks": 55215,
+      "installs": 1708,
+      "dau": 2852,
+      "revenue": 5840.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-17",
+      "impressions": 531745,
+      "clicks": 51147,
+      "installs": 2740,
+      "dau": 8687,
+      "revenue": 8174.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-17",
+      "impressions": 513157,
+      "clicks": 56312,
+      "installs": 1904,
+      "dau": 3537,
+      "revenue": 6114.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-17",
+      "impressions": 509714,
+      "clicks": 53089,
+      "installs": 2335,
+      "dau": 8186,
+      "revenue": 7974.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-17",
+      "impressions": 531574,
+      "clicks": 56573,
+      "installs": 2252,
+      "dau": 4634,
+      "revenue": 6553.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-17",
+      "impressions": 529697,
+      "clicks": 53509,
+      "installs": 2597,
+      "dau": 8106,
+      "revenue": 7942.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-18",
+      "impressions": 529696,
+      "clicks": 51731,
+      "installs": 1693,
+      "dau": 9561,
+      "revenue": 8524.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-18",
+      "impressions": 539963,
+      "clicks": 51160,
+      "installs": 1216,
+      "dau": 10805,
+      "revenue": 9022,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-18",
+      "impressions": 509963,
+      "clicks": 54745,
+      "installs": 1169,
+      "dau": 6492,
+      "revenue": 7296.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-18",
+      "impressions": 527063,
+      "clicks": 55609,
+      "installs": 1389,
+      "dau": 1408,
+      "revenue": 5263.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-18",
+      "impressions": 523980,
+      "clicks": 55152,
+      "installs": 2130,
+      "dau": 5004,
+      "revenue": 6701.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-18",
+      "impressions": 513198,
+      "clicks": 52150,
+      "installs": 1171,
+      "dau": 7759,
+      "revenue": 7803.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-19",
+      "impressions": 526585,
+      "clicks": 53872,
+      "installs": 1767,
+      "dau": 11236,
+      "revenue": 9194.400000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-19",
+      "impressions": 529294,
+      "clicks": 56410,
+      "installs": 2704,
+      "dau": 5556,
+      "revenue": 6922.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-19",
+      "impressions": 525814,
+      "clicks": 51947,
+      "installs": 1820,
+      "dau": 12492,
+      "revenue": 9696.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-19",
+      "impressions": 524722,
+      "clicks": 56976,
+      "installs": 1045,
+      "dau": 4725,
+      "revenue": 6590,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-19",
+      "impressions": 504015,
+      "clicks": 51652,
+      "installs": 1811,
+      "dau": 9461,
+      "revenue": 8484.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-19",
+      "impressions": 507782,
+      "clicks": 53374,
+      "installs": 1997,
+      "dau": 11342,
+      "revenue": 9236.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-20",
+      "impressions": 509755,
+      "clicks": 53551,
+      "installs": 1475,
+      "dau": 8886,
+      "revenue": 8254.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-20",
+      "impressions": 500700,
+      "clicks": 54765,
+      "installs": 1533,
+      "dau": 5578,
+      "revenue": 6931.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-20",
+      "impressions": 502645,
+      "clicks": 54043,
+      "installs": 1070,
+      "dau": 7977,
+      "revenue": 7890.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-20",
+      "impressions": 536938,
+      "clicks": 56010,
+      "installs": 1739,
+      "dau": 2893,
+      "revenue": 5857.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-20",
+      "impressions": 530375,
+      "clicks": 54692,
+      "installs": 2575,
+      "dau": 4587,
+      "revenue": 6534.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-20",
+      "impressions": 501858,
+      "clicks": 54340,
+      "installs": 1349,
+      "dau": 5569,
+      "revenue": 6927.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-21",
+      "impressions": 510850,
+      "clicks": 52865,
+      "installs": 1216,
+      "dau": 4234,
+      "revenue": 6393.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-21",
+      "impressions": 529795,
+      "clicks": 50554,
+      "installs": 2444,
+      "dau": 4413,
+      "revenue": 6465.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-21",
+      "impressions": 530286,
+      "clicks": 56296,
+      "installs": 2618,
+      "dau": 10674,
+      "revenue": 8969.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-21",
+      "impressions": 537348,
+      "clicks": 50658,
+      "installs": 2170,
+      "dau": 3450,
+      "revenue": 6080,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-21",
+      "impressions": 529548,
+      "clicks": 51693,
+      "installs": 2075,
+      "dau": 12642,
+      "revenue": 9756.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-21",
+      "impressions": 534718,
+      "clicks": 53973,
+      "installs": 2430,
+      "dau": 10388,
+      "revenue": 8855.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-22",
+      "impressions": 505914,
+      "clicks": 50946,
+      "installs": 2417,
+      "dau": 7080,
+      "revenue": 7532,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-22",
+      "impressions": 503858,
+      "clicks": 52914,
+      "installs": 1089,
+      "dau": 1515,
+      "revenue": 5306,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-22",
+      "impressions": 526582,
+      "clicks": 54032,
+      "installs": 2580,
+      "dau": 9177,
+      "revenue": 8370.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-22",
+      "impressions": 537188,
+      "clicks": 55322,
+      "installs": 2882,
+      "dau": 7372,
+      "revenue": 7648.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-22",
+      "impressions": 519206,
+      "clicks": 53661,
+      "installs": 2453,
+      "dau": 5705,
+      "revenue": 6982,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-22",
+      "impressions": 504646,
+      "clicks": 53154,
+      "installs": 1701,
+      "dau": 9687,
+      "revenue": 8574.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-23",
+      "impressions": 505579,
+      "clicks": 53042,
+      "installs": 1963,
+      "dau": 8285,
+      "revenue": 8014,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-23",
+      "impressions": 527606,
+      "clicks": 54320,
+      "installs": 2189,
+      "dau": 4335,
+      "revenue": 6434,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-23",
+      "impressions": 536087,
+      "clicks": 53894,
+      "installs": 2003,
+      "dau": 10064,
+      "revenue": 8725.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-23",
+      "impressions": 508274,
+      "clicks": 51827,
+      "installs": 1839,
+      "dau": 9550,
+      "revenue": 8520,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-23",
+      "impressions": 515884,
+      "clicks": 53878,
+      "installs": 1182,
+      "dau": 6294,
+      "revenue": 7217.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-23",
+      "impressions": 519813,
+      "clicks": 56335,
+      "installs": 2136,
+      "dau": 9238,
+      "revenue": 8395.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-24",
+      "impressions": 525083,
+      "clicks": 56808,
+      "installs": 2305,
+      "dau": 6158,
+      "revenue": 7163.200000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-24",
+      "impressions": 536178,
+      "clicks": 56624,
+      "installs": 1484,
+      "dau": 4196,
+      "revenue": 6378.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-24",
+      "impressions": 526817,
+      "clicks": 56309,
+      "installs": 1596,
+      "dau": 8269,
+      "revenue": 8007.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-24",
+      "impressions": 509909,
+      "clicks": 54585,
+      "installs": 1380,
+      "dau": 7130,
+      "revenue": 7552,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-24",
+      "impressions": 524569,
+      "clicks": 53965,
+      "installs": 2459,
+      "dau": 10737,
+      "revenue": 8994.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-24",
+      "impressions": 531763,
+      "clicks": 55338,
+      "installs": 1511,
+      "dau": 12235,
+      "revenue": 9594,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-25",
+      "impressions": 506469,
+      "clicks": 51155,
+      "installs": 2388,
+      "dau": 5797,
+      "revenue": 7018.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-25",
+      "impressions": 524368,
+      "clicks": 50679,
+      "installs": 2193,
+      "dau": 9451,
+      "revenue": 8480.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-25",
+      "impressions": 536254,
+      "clicks": 51240,
+      "installs": 1288,
+      "dau": 9294,
+      "revenue": 8417.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-25",
+      "impressions": 505250,
+      "clicks": 51456,
+      "installs": 2022,
+      "dau": 5997,
+      "revenue": 7098.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-25",
+      "impressions": 515077,
+      "clicks": 50682,
+      "installs": 1775,
+      "dau": 7425,
+      "revenue": 7670,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-25",
+      "impressions": 521608,
+      "clicks": 53460,
+      "installs": 2018,
+      "dau": 3208,
+      "revenue": 5983.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-26",
+      "impressions": 533435,
+      "clicks": 56492,
+      "installs": 2865,
+      "dau": 6736,
+      "revenue": 7394.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-26",
+      "impressions": 521793,
+      "clicks": 55538,
+      "installs": 2248,
+      "dau": 7693,
+      "revenue": 7777.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-26",
+      "impressions": 507168,
+      "clicks": 52293,
+      "installs": 1347,
+      "dau": 2319,
+      "revenue": 5627.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-26",
+      "impressions": 527608,
+      "clicks": 56336,
+      "installs": 2160,
+      "dau": 12486,
+      "revenue": 9694.400000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-26",
+      "impressions": 506616,
+      "clicks": 55455,
+      "installs": 1188,
+      "dau": 6801,
+      "revenue": 7420.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-26",
+      "impressions": 527253,
+      "clicks": 51959,
+      "installs": 2795,
+      "dau": 10083,
+      "revenue": 8733.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-27",
+      "impressions": 508487,
+      "clicks": 55928,
+      "installs": 1530,
+      "dau": 8823,
+      "revenue": 8229.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-27",
+      "impressions": 529601,
+      "clicks": 54519,
+      "installs": 1779,
+      "dau": 10631,
+      "revenue": 8952.400000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-27",
+      "impressions": 527274,
+      "clicks": 50632,
+      "installs": 1513,
+      "dau": 4689,
+      "revenue": 6575.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-27",
+      "impressions": 518269,
+      "clicks": 50553,
+      "installs": 1478,
+      "dau": 6332,
+      "revenue": 7232.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-27",
+      "impressions": 507500,
+      "clicks": 52402,
+      "installs": 2134,
+      "dau": 8671,
+      "revenue": 8168.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-27",
+      "impressions": 533790,
+      "clicks": 53358,
+      "installs": 1714,
+      "dau": 2894,
+      "revenue": 5857.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-28",
+      "impressions": 505116,
+      "clicks": 51482,
+      "installs": 2312,
+      "dau": 8709,
+      "revenue": 8183.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-28",
+      "impressions": 525246,
+      "clicks": 51367,
+      "installs": 2860,
+      "dau": 6496,
+      "revenue": 7298.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-28",
+      "impressions": 524810,
+      "clicks": 50161,
+      "installs": 1858,
+      "dau": 4345,
+      "revenue": 6438,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-28",
+      "impressions": 527397,
+      "clicks": 54316,
+      "installs": 1837,
+      "dau": 6995,
+      "revenue": 7498,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-28",
+      "impressions": 514612,
+      "clicks": 56220,
+      "installs": 2516,
+      "dau": 5381,
+      "revenue": 6852.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-28",
+      "impressions": 533704,
+      "clicks": 50592,
+      "installs": 2248,
+      "dau": 12842,
+      "revenue": 9836.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-29",
+      "impressions": 514604,
+      "clicks": 55748,
+      "installs": 1258,
+      "dau": 5765,
+      "revenue": 7006,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-29",
+      "impressions": 532981,
+      "clicks": 51992,
+      "installs": 2844,
+      "dau": 12764,
+      "revenue": 9805.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-29",
+      "impressions": 530772,
+      "clicks": 56959,
+      "installs": 1123,
+      "dau": 3109,
+      "revenue": 5943.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-29",
+      "impressions": 526311,
+      "clicks": 53437,
+      "installs": 2179,
+      "dau": 2685,
+      "revenue": 5774,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-29",
+      "impressions": 519310,
+      "clicks": 52566,
+      "installs": 1340,
+      "dau": 5297,
+      "revenue": 6818.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-29",
+      "impressions": 516286,
+      "clicks": 52720,
+      "installs": 2850,
+      "dau": 12054,
+      "revenue": 9521.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-30",
+      "impressions": 534380,
+      "clicks": 55301,
+      "installs": 1651,
+      "dau": 8683,
+      "revenue": 8173.200000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-30",
+      "impressions": 509732,
+      "clicks": 53446,
+      "installs": 2250,
+      "dau": 12168,
+      "revenue": 9567.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-06-30",
+      "impressions": 500782,
+      "clicks": 54192,
+      "installs": 1754,
+      "dau": 11840,
+      "revenue": 9436,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-30",
+      "impressions": 508058,
+      "clicks": 53336,
+      "installs": 2525,
+      "dau": 9961,
+      "revenue": 8684.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-06-30",
+      "impressions": 539140,
+      "clicks": 53909,
+      "installs": 1043,
+      "dau": 1286,
+      "revenue": 5214.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-06-30",
+      "impressions": 513856,
+      "clicks": 54372,
+      "installs": 1068,
+      "dau": 7286,
+      "revenue": 7614.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-01",
+      "impressions": 513570,
+      "clicks": 53908,
+      "installs": 2841,
+      "dau": 13296,
+      "revenue": 10018.400000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-01",
+      "impressions": 521637,
+      "clicks": 54062,
+      "installs": 1967,
+      "dau": 9348,
+      "revenue": 8439.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-01",
+      "impressions": 525644,
+      "clicks": 54900,
+      "installs": 2696,
+      "dau": 3614,
+      "revenue": 6145.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-01",
+      "impressions": 509334,
+      "clicks": 53549,
+      "installs": 2641,
+      "dau": 2968,
+      "revenue": 5887.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-01",
+      "impressions": 506474,
+      "clicks": 51370,
+      "installs": 1503,
+      "dau": 10896,
+      "revenue": 9058.400000000001,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-01",
+      "impressions": 512864,
+      "clicks": 54785,
+      "installs": 1108,
+      "dau": 1400,
+      "revenue": 5260,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-02",
+      "impressions": 528672,
+      "clicks": 51852,
+      "installs": 2651,
+      "dau": 2837,
+      "revenue": 5834.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-02",
+      "impressions": 534818,
+      "clicks": 52346,
+      "installs": 2641,
+      "dau": 12472,
+      "revenue": 9688.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-02",
+      "impressions": 538618,
+      "clicks": 55575,
+      "installs": 1446,
+      "dau": 11922,
+      "revenue": 9468.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-02",
+      "impressions": 518439,
+      "clicks": 54325,
+      "installs": 1492,
+      "dau": 8078,
+      "revenue": 7931.200000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-02",
+      "impressions": 532902,
+      "clicks": 53626,
+      "installs": 2865,
+      "dau": 4617,
+      "revenue": 6546.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-02",
+      "impressions": 514508,
+      "clicks": 55811,
+      "installs": 2193,
+      "dau": 2815,
+      "revenue": 5826,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-03",
+      "impressions": 522585,
+      "clicks": 55597,
+      "installs": 2641,
+      "dau": 6608,
+      "revenue": 7343.200000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-03",
+      "impressions": 521091,
+      "clicks": 51299,
+      "installs": 1197,
+      "dau": 9073,
+      "revenue": 8329.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-03",
+      "impressions": 507882,
+      "clicks": 53964,
+      "installs": 2753,
+      "dau": 13149,
+      "revenue": 9959.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-03",
+      "impressions": 531515,
+      "clicks": 56657,
+      "installs": 1271,
+      "dau": 6792,
+      "revenue": 7416.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-03",
+      "impressions": 505828,
+      "clicks": 52347,
+      "installs": 2616,
+      "dau": 3672,
+      "revenue": 6168.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-03",
+      "impressions": 532953,
+      "clicks": 54218,
+      "installs": 1872,
+      "dau": 5232,
+      "revenue": 6792.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-04",
+      "impressions": 503248,
+      "clicks": 50436,
+      "installs": 1704,
+      "dau": 10431,
+      "revenue": 8872.400000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-04",
+      "impressions": 536849,
+      "clicks": 53088,
+      "installs": 1378,
+      "dau": 7882,
+      "revenue": 7852.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-04",
+      "impressions": 537111,
+      "clicks": 50748,
+      "installs": 2835,
+      "dau": 3111,
+      "revenue": 5944.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-04",
+      "impressions": 511512,
+      "clicks": 53744,
+      "installs": 1951,
+      "dau": 11110,
+      "revenue": 9144,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-04",
+      "impressions": 505964,
+      "clicks": 53478,
+      "installs": 2860,
+      "dau": 6449,
+      "revenue": 7279.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-04",
+      "impressions": 503992,
+      "clicks": 52496,
+      "installs": 2476,
+      "dau": 8304,
+      "revenue": 8021.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-05",
+      "impressions": 521090,
+      "clicks": 50496,
+      "installs": 1110,
+      "dau": 4180,
+      "revenue": 6372,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-05",
+      "impressions": 503230,
+      "clicks": 50123,
+      "installs": 2430,
+      "dau": 7886,
+      "revenue": 7854.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-05",
+      "impressions": 514301,
+      "clicks": 52699,
+      "installs": 1837,
+      "dau": 6207,
+      "revenue": 7182.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-05",
+      "impressions": 517152,
+      "clicks": 51843,
+      "installs": 2831,
+      "dau": 4395,
+      "revenue": 6458,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-05",
+      "impressions": 535477,
+      "clicks": 55698,
+      "installs": 2461,
+      "dau": 5926,
+      "revenue": 7070.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-05",
+      "impressions": 509318,
+      "clicks": 55245,
+      "installs": 1701,
+      "dau": 12346,
+      "revenue": 9638.400000000001,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-06",
+      "impressions": 532652,
+      "clicks": 55023,
+      "installs": 2257,
+      "dau": 2372,
+      "revenue": 5648.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-06",
+      "impressions": 524910,
+      "clicks": 53481,
+      "installs": 2704,
+      "dau": 7506,
+      "revenue": 7702.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-06",
+      "impressions": 522201,
+      "clicks": 55341,
+      "installs": 1347,
+      "dau": 7547,
+      "revenue": 7718.8,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-06",
+      "impressions": 515753,
+      "clicks": 50744,
+      "installs": 1912,
+      "dau": 4627,
+      "revenue": 6550.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-06",
+      "impressions": 506173,
+      "clicks": 56250,
+      "installs": 2559,
+      "dau": 8022,
+      "revenue": 7908.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-06",
+      "impressions": 527787,
+      "clicks": 55415,
+      "installs": 1199,
+      "dau": 9389,
+      "revenue": 8455.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-07",
+      "impressions": 522306,
+      "clicks": 52061,
+      "installs": 1060,
+      "dau": 10002,
+      "revenue": 8700.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-07",
+      "impressions": 500928,
+      "clicks": 51341,
+      "installs": 2311,
+      "dau": 10485,
+      "revenue": 8894,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-07",
+      "impressions": 526734,
+      "clicks": 53529,
+      "installs": 1418,
+      "dau": 4149,
+      "revenue": 6359.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-07",
+      "impressions": 518065,
+      "clicks": 50029,
+      "installs": 2069,
+      "dau": 2876,
+      "revenue": 5850.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-07",
+      "impressions": 535207,
+      "clicks": 51153,
+      "installs": 2852,
+      "dau": 10347,
+      "revenue": 8838.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-07",
+      "impressions": 526949,
+      "clicks": 54694,
+      "installs": 1809,
+      "dau": 6317,
+      "revenue": 7226.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-08",
+      "impressions": 504834,
+      "clicks": 55671,
+      "installs": 1218,
+      "dau": 1245,
+      "revenue": 5198,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-08",
+      "impressions": 530895,
+      "clicks": 55483,
+      "installs": 2058,
+      "dau": 4912,
+      "revenue": 6664.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-08",
+      "impressions": 502662,
+      "clicks": 53902,
+      "installs": 1501,
+      "dau": 2293,
+      "revenue": 5617.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-08",
+      "impressions": 518974,
+      "clicks": 52767,
+      "installs": 2622,
+      "dau": 2660,
+      "revenue": 5764,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-08",
+      "impressions": 530428,
+      "clicks": 50964,
+      "installs": 1072,
+      "dau": 3641,
+      "revenue": 6156.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-08",
+      "impressions": 510115,
+      "clicks": 56367,
+      "installs": 2856,
+      "dau": 9333,
+      "revenue": 8433.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-09",
+      "impressions": 509634,
+      "clicks": 53770,
+      "installs": 1452,
+      "dau": 5551,
+      "revenue": 6920.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-09",
+      "impressions": 533783,
+      "clicks": 54991,
+      "installs": 1454,
+      "dau": 3160,
+      "revenue": 5964,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-09",
+      "impressions": 516806,
+      "clicks": 52062,
+      "installs": 2740,
+      "dau": 4390,
+      "revenue": 6456,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-09",
+      "impressions": 535849,
+      "clicks": 54193,
+      "installs": 2383,
+      "dau": 6731,
+      "revenue": 7392.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-09",
+      "impressions": 511415,
+      "clicks": 54329,
+      "installs": 2571,
+      "dau": 12279,
+      "revenue": 9611.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-09",
+      "impressions": 529072,
+      "clicks": 52387,
+      "installs": 2537,
+      "dau": 4501,
+      "revenue": 6500.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-10",
+      "impressions": 539443,
+      "clicks": 55938,
+      "installs": 2330,
+      "dau": 11564,
+      "revenue": 9325.6,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-10",
+      "impressions": 530459,
+      "clicks": 56244,
+      "installs": 1349,
+      "dau": 1848,
+      "revenue": 5439.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-10",
+      "impressions": 522753,
+      "clicks": 52028,
+      "installs": 1039,
+      "dau": 9445,
+      "revenue": 8478,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-10",
+      "impressions": 516776,
+      "clicks": 54342,
+      "installs": 1737,
+      "dau": 12273,
+      "revenue": 9609.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-10",
+      "impressions": 513179,
+      "clicks": 56624,
+      "installs": 2333,
+      "dau": 12810,
+      "revenue": 9824,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-10",
+      "impressions": 524720,
+      "clicks": 50152,
+      "installs": 1627,
+      "dau": 4108,
+      "revenue": 6343.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-11",
+      "impressions": 536610,
+      "clicks": 56776,
+      "installs": 2031,
+      "dau": 4666,
+      "revenue": 6566.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-11",
+      "impressions": 523472,
+      "clicks": 50109,
+      "installs": 2734,
+      "dau": 8411,
+      "revenue": 8064.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-11",
+      "impressions": 516241,
+      "clicks": 56811,
+      "installs": 1266,
+      "dau": 2250,
+      "revenue": 5600,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-11",
+      "impressions": 524724,
+      "clicks": 55618,
+      "installs": 1853,
+      "dau": 10259,
+      "revenue": 8803.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-11",
+      "impressions": 534044,
+      "clicks": 52692,
+      "installs": 2863,
+      "dau": 12733,
+      "revenue": 9793.2,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-11",
+      "impressions": 509556,
+      "clicks": 54431,
+      "installs": 1247,
+      "dau": 1476,
+      "revenue": 5290.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-12",
+      "impressions": 534475,
+      "clicks": 53352,
+      "installs": 1288,
+      "dau": 3113,
+      "revenue": 5945.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-12",
+      "impressions": 531663,
+      "clicks": 55282,
+      "installs": 2333,
+      "dau": 8299,
+      "revenue": 8019.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-12",
+      "impressions": 506168,
+      "clicks": 54116,
+      "installs": 2487,
+      "dau": 11909,
+      "revenue": 9463.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-12",
+      "impressions": 507259,
+      "clicks": 51681,
+      "installs": 1813,
+      "dau": 5749,
+      "revenue": 6999.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-12",
+      "impressions": 528905,
+      "clicks": 54778,
+      "installs": 1087,
+      "dau": 8353,
+      "revenue": 8041.200000000001,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-12",
+      "impressions": 507852,
+      "clicks": 56694,
+      "installs": 1769,
+      "dau": 3066,
+      "revenue": 5926.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-13",
+      "impressions": 525202,
+      "clicks": 50120,
+      "installs": 2067,
+      "dau": 9448,
+      "revenue": 8479.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-13",
+      "impressions": 538569,
+      "clicks": 52874,
+      "installs": 1805,
+      "dau": 6847,
+      "revenue": 7438.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-13",
+      "impressions": 501478,
+      "clicks": 51112,
+      "installs": 1923,
+      "dau": 2835,
+      "revenue": 5834,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-13",
+      "impressions": 501950,
+      "clicks": 55173,
+      "installs": 1788,
+      "dau": 2739,
+      "revenue": 5795.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-13",
+      "impressions": 530946,
+      "clicks": 54186,
+      "installs": 1862,
+      "dau": 3689,
+      "revenue": 6175.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-13",
+      "impressions": 500509,
+      "clicks": 54527,
+      "installs": 1739,
+      "dau": 5067,
+      "revenue": 6726.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-14",
+      "impressions": 500537,
+      "clicks": 50702,
+      "installs": 2506,
+      "dau": 6432,
+      "revenue": 7272.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-14",
+      "impressions": 514421,
+      "clicks": 51931,
+      "installs": 1866,
+      "dau": 10336,
+      "revenue": 8834.400000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-14",
+      "impressions": 534299,
+      "clicks": 53995,
+      "installs": 1634,
+      "dau": 8708,
+      "revenue": 8183.200000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-14",
+      "impressions": 508505,
+      "clicks": 51721,
+      "installs": 2029,
+      "dau": 9997,
+      "revenue": 8698.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-14",
+      "impressions": 526682,
+      "clicks": 56267,
+      "installs": 1190,
+      "dau": 10414,
+      "revenue": 8865.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-14",
+      "impressions": 511644,
+      "clicks": 54799,
+      "installs": 1891,
+      "dau": 4216,
+      "revenue": 6386.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-15",
+      "impressions": 521284,
+      "clicks": 56962,
+      "installs": 2214,
+      "dau": 4468,
+      "revenue": 6487.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-15",
+      "impressions": 530112,
+      "clicks": 50820,
+      "installs": 1640,
+      "dau": 10373,
+      "revenue": 8849.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-15",
+      "impressions": 504318,
+      "clicks": 56053,
+      "installs": 2027,
+      "dau": 4734,
+      "revenue": 6593.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-15",
+      "impressions": 517202,
+      "clicks": 50593,
+      "installs": 1716,
+      "dau": 4656,
+      "revenue": 6562.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-15",
+      "impressions": 521897,
+      "clicks": 55975,
+      "installs": 1062,
+      "dau": 2811,
+      "revenue": 5824.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-15",
+      "impressions": 508835,
+      "clicks": 51465,
+      "installs": 2765,
+      "dau": 8201,
+      "revenue": 7980.4,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-16",
+      "impressions": 527473,
+      "clicks": 52059,
+      "installs": 2753,
+      "dau": 9360,
+      "revenue": 8444,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-16",
+      "impressions": 529591,
+      "clicks": 53147,
+      "installs": 2877,
+      "dau": 10894,
+      "revenue": 9057.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-16",
+      "impressions": 524601,
+      "clicks": 55768,
+      "installs": 1636,
+      "dau": 6223,
+      "revenue": 7189.200000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-16",
+      "impressions": 514618,
+      "clicks": 53549,
+      "installs": 1758,
+      "dau": 8214,
+      "revenue": 7985.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-16",
+      "impressions": 534574,
+      "clicks": 52428,
+      "installs": 1497,
+      "dau": 12087,
+      "revenue": 9534.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-16",
+      "impressions": 530362,
+      "clicks": 56964,
+      "installs": 1028,
+      "dau": 8890,
+      "revenue": 8256,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-17",
+      "impressions": 515675,
+      "clicks": 51996,
+      "installs": 2001,
+      "dau": 6673,
+      "revenue": 7369.200000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-17",
+      "impressions": 502959,
+      "clicks": 50649,
+      "installs": 2301,
+      "dau": 7389,
+      "revenue": 7655.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-17",
+      "impressions": 506805,
+      "clicks": 56909,
+      "installs": 2248,
+      "dau": 4139,
+      "revenue": 6355.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-17",
+      "impressions": 503765,
+      "clicks": 52541,
+      "installs": 2407,
+      "dau": 10574,
+      "revenue": 8929.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-17",
+      "impressions": 500918,
+      "clicks": 53500,
+      "installs": 2539,
+      "dau": 6884,
+      "revenue": 7453.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-17",
+      "impressions": 531374,
+      "clicks": 50787,
+      "installs": 1266,
+      "dau": 1483,
+      "revenue": 5293.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-18",
+      "impressions": 519761,
+      "clicks": 55947,
+      "installs": 2200,
+      "dau": 4958,
+      "revenue": 6683.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-18",
+      "impressions": 524244,
+      "clicks": 52433,
+      "installs": 1323,
+      "dau": 5638,
+      "revenue": 6955.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-18",
+      "impressions": 506292,
+      "clicks": 54471,
+      "installs": 2470,
+      "dau": 12756,
+      "revenue": 9802.400000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-18",
+      "impressions": 539545,
+      "clicks": 55922,
+      "installs": 2556,
+      "dau": 3090,
+      "revenue": 5936,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-18",
+      "impressions": 506314,
+      "clicks": 56234,
+      "installs": 1727,
+      "dau": 3930,
+      "revenue": 6272,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-18",
+      "impressions": 506610,
+      "clicks": 52512,
+      "installs": 1596,
+      "dau": 2184,
+      "revenue": 5573.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-19",
+      "impressions": 506206,
+      "clicks": 54395,
+      "installs": 2402,
+      "dau": 7498,
+      "revenue": 7699.200000000001,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-19",
+      "impressions": 539532,
+      "clicks": 56051,
+      "installs": 2482,
+      "dau": 10153,
+      "revenue": 8761.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-19",
+      "impressions": 515136,
+      "clicks": 52554,
+      "installs": 2554,
+      "dau": 3406,
+      "revenue": 6062.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-19",
+      "impressions": 539208,
+      "clicks": 55496,
+      "installs": 1891,
+      "dau": 5669,
+      "revenue": 6967.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-19",
+      "impressions": 519311,
+      "clicks": 54352,
+      "installs": 2474,
+      "dau": 2626,
+      "revenue": 5750.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-19",
+      "impressions": 534703,
+      "clicks": 54359,
+      "installs": 2495,
+      "dau": 6183,
+      "revenue": 7173.200000000001,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-20",
+      "impressions": 534681,
+      "clicks": 52079,
+      "installs": 2537,
+      "dau": 10513,
+      "revenue": 8905.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-20",
+      "impressions": 519042,
+      "clicks": 55758,
+      "installs": 2043,
+      "dau": 7836,
+      "revenue": 7834.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-20",
+      "impressions": 532096,
+      "clicks": 50896,
+      "installs": 2755,
+      "dau": 2774,
+      "revenue": 5809.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-20",
+      "impressions": 521284,
+      "clicks": 55256,
+      "installs": 1644,
+      "dau": 10383,
+      "revenue": 8853.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-20",
+      "impressions": 517075,
+      "clicks": 53282,
+      "installs": 1108,
+      "dau": 8890,
+      "revenue": 8256,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-20",
+      "impressions": 518064,
+      "clicks": 53455,
+      "installs": 2620,
+      "dau": 11920,
+      "revenue": 9468,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-21",
+      "impressions": 533661,
+      "clicks": 51574,
+      "installs": 2273,
+      "dau": 10338,
+      "revenue": 8835.2,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-21",
+      "impressions": 522842,
+      "clicks": 55372,
+      "installs": 1210,
+      "dau": 9304,
+      "revenue": 8421.6,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-21",
+      "impressions": 528790,
+      "clicks": 52685,
+      "installs": 1431,
+      "dau": 8023,
+      "revenue": 7909.200000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-21",
+      "impressions": 532579,
+      "clicks": 52128,
+      "installs": 2010,
+      "dau": 10536,
+      "revenue": 8914.400000000001,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-21",
+      "impressions": 500519,
+      "clicks": 55386,
+      "installs": 1644,
+      "dau": 6278,
+      "revenue": 7211.200000000001,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-21",
+      "impressions": 521116,
+      "clicks": 51782,
+      "installs": 1720,
+      "dau": 10906,
+      "revenue": 9062.400000000001,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-22",
+      "impressions": 523798,
+      "clicks": 52539,
+      "installs": 1613,
+      "dau": 6905,
+      "revenue": 7462,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-22",
+      "impressions": 537652,
+      "clicks": 56213,
+      "installs": 1410,
+      "dau": 4407,
+      "revenue": 6462.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-22",
+      "impressions": 535205,
+      "clicks": 50423,
+      "installs": 1545,
+      "dau": 3275,
+      "revenue": 6010,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-22",
+      "impressions": 527089,
+      "clicks": 56340,
+      "installs": 2048,
+      "dau": 10959,
+      "revenue": 9083.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-22",
+      "impressions": 500558,
+      "clicks": 50875,
+      "installs": 1511,
+      "dau": 2689,
+      "revenue": 5775.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-22",
+      "impressions": 525696,
+      "clicks": 53645,
+      "installs": 2605,
+      "dau": 3355,
+      "revenue": 6042,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-23",
+      "impressions": 534165,
+      "clicks": 53190,
+      "installs": 1205,
+      "dau": 2671,
+      "revenue": 5768.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-23",
+      "impressions": 509571,
+      "clicks": 55759,
+      "installs": 2335,
+      "dau": 7583,
+      "revenue": 7733.200000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-23",
+      "impressions": 523708,
+      "clicks": 53864,
+      "installs": 2867,
+      "dau": 10211,
+      "revenue": 8784.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-23",
+      "impressions": 502403,
+      "clicks": 55733,
+      "installs": 2214,
+      "dau": 5812,
+      "revenue": 7024.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-23",
+      "impressions": 520405,
+      "clicks": 53391,
+      "installs": 1665,
+      "dau": 5651,
+      "revenue": 6960.4,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-23",
+      "impressions": 525838,
+      "clicks": 56859,
+      "installs": 1657,
+      "dau": 5497,
+      "revenue": 6898.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-24",
+      "impressions": 524514,
+      "clicks": 54657,
+      "installs": 1311,
+      "dau": 10290,
+      "revenue": 8816,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-24",
+      "impressions": 501841,
+      "clicks": 50567,
+      "installs": 1602,
+      "dau": 9643,
+      "revenue": 8557.2,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-24",
+      "impressions": 507909,
+      "clicks": 50534,
+      "installs": 2128,
+      "dau": 12323,
+      "revenue": 9629.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-24",
+      "impressions": 511708,
+      "clicks": 53283,
+      "installs": 2151,
+      "dau": 9557,
+      "revenue": 8522.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-24",
+      "impressions": 538712,
+      "clicks": 54692,
+      "installs": 1252,
+      "dau": 4327,
+      "revenue": 6430.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-24",
+      "impressions": 524271,
+      "clicks": 56054,
+      "installs": 2692,
+      "dau": 6197,
+      "revenue": 7178.8,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-25",
+      "impressions": 518988,
+      "clicks": 51865,
+      "installs": 1803,
+      "dau": 5772,
+      "revenue": 7008.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-25",
+      "impressions": 505850,
+      "clicks": 50661,
+      "installs": 1457,
+      "dau": 11252,
+      "revenue": 9200.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-25",
+      "impressions": 524146,
+      "clicks": 56689,
+      "installs": 2377,
+      "dau": 4795,
+      "revenue": 6618,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-25",
+      "impressions": 509492,
+      "clicks": 51169,
+      "installs": 2143,
+      "dau": 10732,
+      "revenue": 8992.8,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-25",
+      "impressions": 501729,
+      "clicks": 53154,
+      "installs": 1697,
+      "dau": 11910,
+      "revenue": 9464,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-25",
+      "impressions": 539864,
+      "clicks": 51968,
+      "installs": 1077,
+      "dau": 6879,
+      "revenue": 7451.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-26",
+      "impressions": 507474,
+      "clicks": 55782,
+      "installs": 2603,
+      "dau": 3791,
+      "revenue": 6216.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-26",
+      "impressions": 529226,
+      "clicks": 53950,
+      "installs": 1623,
+      "dau": 4236,
+      "revenue": 6394.4,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-26",
+      "impressions": 532630,
+      "clicks": 51593,
+      "installs": 1412,
+      "dau": 3158,
+      "revenue": 5963.2,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-26",
+      "impressions": 534597,
+      "clicks": 53348,
+      "installs": 1617,
+      "dau": 3318,
+      "revenue": 6027.2,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-26",
+      "impressions": 527557,
+      "clicks": 55294,
+      "installs": 2411,
+      "dau": 10225,
+      "revenue": 8790,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-26",
+      "impressions": 532320,
+      "clicks": 53943,
+      "installs": 2124,
+      "dau": 3883,
+      "revenue": 6253.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-27",
+      "impressions": 520537,
+      "clicks": 54846,
+      "installs": 2210,
+      "dau": 12945,
+      "revenue": 9878,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-27",
+      "impressions": 507906,
+      "clicks": 53278,
+      "installs": 2846,
+      "dau": 10425,
+      "revenue": 8870,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-27",
+      "impressions": 537028,
+      "clicks": 55733,
+      "installs": 1399,
+      "dau": 9566,
+      "revenue": 8526.4,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-27",
+      "impressions": 508136,
+      "clicks": 54566,
+      "installs": 2717,
+      "dau": 9596,
+      "revenue": 8538.4,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-27",
+      "impressions": 518520,
+      "clicks": 53209,
+      "installs": 2098,
+      "dau": 6720,
+      "revenue": 7388,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-27",
+      "impressions": 510231,
+      "clicks": 56570,
+      "installs": 1522,
+      "dau": 4408,
+      "revenue": 6463.2,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-28",
+      "impressions": 508318,
+      "clicks": 54128,
+      "installs": 2879,
+      "dau": 4617,
+      "revenue": 6546.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-28",
+      "impressions": 504267,
+      "clicks": 55443,
+      "installs": 1180,
+      "dau": 8155,
+      "revenue": 7962,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-28",
+      "impressions": 505409,
+      "clicks": 53147,
+      "installs": 1701,
+      "dau": 4049,
+      "revenue": 6319.6,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-28",
+      "impressions": 519557,
+      "clicks": 54174,
+      "installs": 2852,
+      "dau": 9874,
+      "revenue": 8649.6,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-28",
+      "impressions": 504928,
+      "clicks": 53975,
+      "installs": 2799,
+      "dau": 10014,
+      "revenue": 8705.6,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-28",
+      "impressions": 500900,
+      "clicks": 56310,
+      "installs": 1693,
+      "dau": 10671,
+      "revenue": 8968.400000000001,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-29",
+      "impressions": 520465,
+      "clicks": 55023,
+      "installs": 1716,
+      "dau": 9891,
+      "revenue": 8656.4,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-29",
+      "impressions": 519807,
+      "clicks": 56711,
+      "installs": 1678,
+      "dau": 11096,
+      "revenue": 9138.400000000001,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-29",
+      "impressions": 519442,
+      "clicks": 50473,
+      "installs": 1571,
+      "dau": 10805,
+      "revenue": 9022,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-29",
+      "impressions": 534373,
+      "clicks": 52369,
+      "installs": 1805,
+      "dau": 4735,
+      "revenue": 6594,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-29",
+      "impressions": 520737,
+      "clicks": 56973,
+      "installs": 1714,
+      "dau": 2782,
+      "revenue": 5812.8,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-29",
+      "impressions": 529808,
+      "clicks": 54547,
+      "installs": 2337,
+      "dau": 8865,
+      "revenue": 8246,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-30",
+      "impressions": 538940,
+      "clicks": 55689,
+      "installs": 1678,
+      "dau": 9697,
+      "revenue": 8578.8,
+      "platform": "iOS",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-30",
+      "impressions": 517552,
+      "clicks": 55415,
+      "installs": 2552,
+      "dau": 7352,
+      "revenue": 7640.8,
+      "platform": "Android",
+      "app": "Fun Race 3D"
+    },
+    {
+      "date": "2020-07-30",
+      "impressions": 522979,
+      "clicks": 50299,
+      "installs": 2079,
+      "dau": 5718,
+      "revenue": 6987.200000000001,
+      "platform": "Android",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-30",
+      "impressions": 527582,
+      "clicks": 51663,
+      "installs": 2284,
+      "dau": 7610,
+      "revenue": 7744,
+      "platform": "iOS",
+      "app": "Fold Puzzle"
+    },
+    {
+      "date": "2020-07-30",
+      "impressions": 500269,
+      "clicks": 54785,
+      "installs": 1281,
+      "dau": 10840,
+      "revenue": 9036,
+      "platform": "iOS",
+      "app": "Jelly Dye"
+    },
+    {
+      "date": "2020-07-30",
+      "impressions": 515382,
+      "clicks": 52327,
+      "installs": 2124,
+      "dau": 8869,
+      "revenue": 8247.6,
+      "platform": "Android",
+      "app": "Jelly Dye"
+    }
+  ]
