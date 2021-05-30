@@ -1,20 +1,22 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Blank
+      GoodJobGames - Case Study
+      <button routerLink= "/charts" >Click Here to Show Chart!</button>
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+  <div><input type="text" placeholder="Search..."(keyup)='filterDatatable($event)'></div>
+  <ngx-datatable #table [rows]="mock" [ngClass]="tableStyle" [rowHeight]="'auto'" [headerHeight]="50" [columnMode]="'force'">
+    <ngx-datatable-column name="date"></ngx-datatable-column>
+    <ngx-datatable-column name="impressions"></ngx-datatable-column>
+    <ngx-datatable-column name="clicks"></ngx-datatable-column>
+    <ngx-datatable-column name="installs"></ngx-datatable-column>
+    <ngx-datatable-column name="dau"></ngx-datatable-column>
+    <ngx-datatable-column name="revenue"></ngx-datatable-column>
+    <ngx-datatable-column name="platform"></ngx-datatable-column>
+    <ngx-datatable-column name="app"></ngx-datatable-column>
+  </ngx-datatable>
 </ion-content>
